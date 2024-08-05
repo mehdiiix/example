@@ -52,4 +52,3 @@ public class CustomerUserDetailsService implements UserDetailsService {
        return null;
    }
 }
-
